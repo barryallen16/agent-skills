@@ -18,6 +18,10 @@ Copy the skill folder into your agent's skills directory:
 
 The directory name varies by agent. Each folder holds one `SKILL.md`, and its frontmatter gives the skill a name and a description of when to use it. That description is what the agent reads to decide whether to load the rest.
 
+## Related
+
+- [ats-resume-creation-skill](https://github.com/barryallen16/ats-resume-creation-skill) is a separate agent skill. It writes ATS-friendly software engineer resumes as real `.docx` and `.pdf` files, tailored to a job description, and keeps a persistent candidate profile that grows across sessions, tracks every application, and flags duplicates for the same company and role.
+
 ## Archive
 
 `archive/` holds two of the source files that `writing-that-works` merged from: `write_skill.md` (Roman and Raphaelson) and `ogilvy_skill.md` (Ogilvy). They are kept for reference and are not installed as skills.
