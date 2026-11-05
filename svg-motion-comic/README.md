@@ -5,15 +5,15 @@ This folder contains the agent skill definition, CLI scripts, and a working demo
 
 ## Demo
 
-The reference project `singam-story` turns a static 1080x1920 SVG into an animated 21-second vertical motion comic.
+The reference project `singam-story` turns a static 1080x1920 SVG into an animated vertical motion comic.
 
-| Input (Static SVG) | Output (Animated Motion Comic) |
+| Input (Static SVG) | Output (Animated Preview) |
 | :---: | :---: |
-| <img src="assets/singam-story/input.svg" width="340" alt="Input Comic SVG" /> | <video src="assets/singam-story/final.mp4" width="340" controls></video> |
+| <img src="assets/singam-story/input.svg" width="300" alt="Input Comic SVG" /> | <img src="assets/singam-story/demo_preview.gif" width="300" alt="Motion Comic Preview" /> |
 
 Direct file links:
 - [View Input SVG (7.7 MB)](assets/singam-story/input.svg)
-- [Download Final Video (1.8 MB MP4)](assets/singam-story/final.mp4)
+- [Download Final Video with Audio (620 KB MP4)](assets/singam-story/final.mp4)
 
 ## Files
 
