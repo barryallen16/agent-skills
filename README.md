@@ -10,6 +10,7 @@ Copy a folder into your agent's skills directory and the agent loads it from its
 | [svg-motion-comic](svg-motion-comic/SKILL.md) | Converts multi-panel comic SVGs, manga pages, and storyboards into animated vertical motion videos (9:16 MP4) with camera choreography, bubble pops, and synthesized audio. |
 | [ui-geist-pixel](ui-geist-pixel/SKILL.md) | Builds interfaces with a terminal-tool aesthetic: sharp monochrome, pixel-display headings, 24px pixel icons, one accent color. |
 | [ux-design](ux-design/SKILL.md) | Applies 20 cognitive and UX laws to layouts, navigation, forms, and dashboards to reduce effort and mistakes. |
+| [website-clarity](website-clarity/SKILL.md) | Audits and rewrites website hero sections using the 5-second test to clarify the offer, audience, trust points, and next steps. |
 | [writing-that-works](writing-that-works/SKILL.md) | Drafts and edits business prose so the reader knows what to do, by when, and why. Merges Thompson's clarity rules, Roman and Raphaelson's effectiveness rules, and Ogilvy's persuasion rules into one file. |
 
 ## Install
