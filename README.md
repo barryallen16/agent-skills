@@ -7,6 +7,7 @@ Copy a folder into your agent's skills directory and the agent loads it from its
 
 | Skill | What it does |
 | --- | --- |
+| [microinteractions](microinteractions/SKILL.md) | Builds restrained, tactile UI microinteractions with exact physical timing curves, zero layout shift, accessibility guardrails, and shadcn install commands. |
 | [svg-motion-comic](svg-motion-comic/SKILL.md) | Converts multi-panel comic SVGs, manga pages, and storyboards into animated vertical motion videos (9:16 MP4) with camera choreography, bubble pops, and synthesized audio. |
 | [ui-geist-pixel](ui-geist-pixel/SKILL.md) | Builds interfaces with a terminal-tool aesthetic: sharp monochrome, pixel-display headings, 24px pixel icons, one accent color. |
 | [ux-design](ux-design/SKILL.md) | Applies 20 cognitive and UX laws to layouts, navigation, forms, and dashboards to reduce effort and mistakes. |
