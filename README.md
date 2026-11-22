@@ -7,11 +7,13 @@ Copy a folder into your agent's skills directory and the agent loads it from its
 
 | Skill | What it does |
 | --- | --- |
+| [call-it](call-it/SKILL.md) | Generates memorable, durable names for products, repos, CLIs, and tools using Watkins' SMILE and SCRATCH filters and Altman's tactile naming heuristics without AI naming slop. |
 | [microinteractions](microinteractions/SKILL.md) | Builds restrained, tactile UI microinteractions with exact physical timing curves, zero layout shift, accessibility guardrails, and shadcn install commands. |
 | [svg-motion-comic](svg-motion-comic/SKILL.md) | Converts multi-panel comic SVGs, manga pages, and storyboards into animated vertical motion videos (9:16 MP4) with camera choreography, bubble pops, and synthesized audio. |
 | [ui-geist-pixel](ui-geist-pixel/SKILL.md) | Builds interfaces with a terminal-tool aesthetic: sharp monochrome, pixel-display headings, 24px pixel icons, one accent color. |
 | [ux-design](ux-design/SKILL.md) | Applies 20 cognitive and UX laws to layouts, navigation, forms, and dashboards to reduce effort and mistakes. |
 | [website-clarity](website-clarity/SKILL.md) | Audits and rewrites website hero sections using the 5-second test to clarify the offer, audience, trust points, and next steps. |
+| [writing-core](writing-core/SKILL.md) | Chains voice DNA distillation, structure (business and dev formats), commercial persuasion, and AI-tell removal with style-whitelist protection to draft copy that sounds like a human builder. |
 | [writing-that-works](writing-that-works/SKILL.md) | Drafts and edits business prose so the reader knows what to do, by when, and why. Merges Thompson's clarity rules, Roman and Raphaelson's effectiveness rules, and Ogilvy's persuasion rules into one file. |
 
 ## Install
